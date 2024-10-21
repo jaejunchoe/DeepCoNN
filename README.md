@@ -9,6 +9,8 @@
 
 ## The basic structure of the DeepCoNN model.
 ![슬라이드2](https://github.com/user-attachments/assets/c3f689e6-a08a-4997-b6f1-ff43235b30f4)
+**The repositories do not strictly follow the hyperparameters shown in the above image. Some modifications are present.**
+
 `* Reference:` Zheng, L., Noroozi, V., & Yu, P. S. (2017, February). Joint deep modeling of users and items using reviews for recommendation. In Proceedings of the tenth ACM international conference on web search and data mining (pp. 425-434).
 
 ## Citation (Paper And Publicly Available Code)
